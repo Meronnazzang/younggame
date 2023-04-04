@@ -1,0 +1,14 @@
+C:\Users\82109\Desktop\c++\young_game\young_game\bin\Release\young_game.exe.config
+C:\Users\82109\Desktop\c++\young_game\young_game\bin\Release\young_game.exe
+C:\Users\82109\Desktop\c++\young_game\young_game\bin\Release\young_game.pdb
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.csproj.AssemblyReference.cache
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.Form1.resources
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.GamePlay.resources
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.Game_Help.resources
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.Properties.Resources.resources
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.Server.resources
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.csproj.GenerateResource.cache
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.csproj.CoreCompileInputs.cache
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.exe
+C:\Users\82109\Desktop\c++\young_game\young_game\obj\Release\young_game.pdb
